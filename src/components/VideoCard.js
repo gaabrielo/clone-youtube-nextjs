@@ -8,6 +8,7 @@ dayjs.extend(relativeTime);
 const useStyles = makeStyles(() => ({
   img: {
     width: '100%',
+    // height: '11vw',
   },
   caption: {
     fontWeight: 500,

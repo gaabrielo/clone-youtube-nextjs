@@ -37,28 +37,27 @@ export async function getStaticProps(context) {
     },
     {
       id: 2,
-      title:
-        'BRKsEDU | Bi- lada lada surra de pau mole, surra de pau mole taca o pirulito pra fora e dá um surra de pau mole',
+      title: 'Drake - Laugh Now Cry Later (Official Music Video) ft. Lil Durk',
       authorId: 2,
-      authorName: 'BRKsEDU',
+      authorName: 'Drake',
       authorAvatar: 'avatarUrl',
-      views: 10,
+      views: 267882045,
       thumb:
-        'https://i.ytimg.com/an_webp/CPT1i8PUMB8/mqdefault_6s.webp?du=3000&sqp=COirsoMG&rs=AOn4CLCGW1ViAX_Hdx36nap40wev3Nsalw',
+        'https://i.ytimg.com/vi/JFm7YDVlqnI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjqZ9bWZI5VnF4HJwtFeb2o0wTEw',
       videoUrl: 'url',
       updatedAt: new Date(),
     },
     {
       id: 3,
-      title: 'MONARK PEIDOU NA CARA DO IGOR KKKKK',
+      title: 'Childish Gambino - This Is America (Official Video)',
       authorId: 3,
-      authorName: 'Cortes do Flow [OFICIAL]',
+      authorName: 'Donald Glover',
       authorAvatar:
-        'https://yt3.ggpht.com/ytc/AAUvwngfkVTAr8ZR8JtsVMoU1qtbh_CAbh97aAMVPu8y=s88-c-k-c0x00ffffff-no-rj',
-      views: 3844098,
+        'https://yt3.ggpht.com/ytc/AAUvwniVUbN5jshpw4H75DtYXmhcqmZthwtH3n4981ZIAw=s48-c-k-c0x00ffffff-no-rj-mo',
+      views: 767345985,
       thumb:
-        'https://i.ytimg.com/vi/X4PJTtegQ8s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPO-5b77i5YeA2taEakAH1Rk0O-Q',
-      videoUrl: 'url',
+        'https://i.ytimg.com/vi/VYOjWnS4cMY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7sdnsRa5TUyXoIW7kEo0aJZhMZQ',
+      videoUrl: 'https://www.youtube.com/watch?v=VYOjWnS4cMY',
       updatedAt: new Date(),
     },
   ];
